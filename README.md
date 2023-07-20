@@ -2,7 +2,25 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, Clone the project,
+
+```bash
+ git clone https://github.com/asalwania/final-year-project.git
+```
+
+Second check if your node version is v18.14.0
+
+```bash
+ node -v
+```
+
+Third run
+
+```bash
+ npm install
+```
+
+Fourth, run the development server:
 
 ```bash
 npm run dev
